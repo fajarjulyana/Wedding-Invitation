@@ -22,8 +22,8 @@ This is a simple web application that allows users to create personalized weddin
 ### 1. Clone the repository:
 
 ```bash
-git clone this 
-cd wedding-invitation-generator
+git clone https://github.com/fajarjulyana/Wedding-Invitation.git
+cd wedding-invitation
 ```
 
 ### 2. Install dependencies:
