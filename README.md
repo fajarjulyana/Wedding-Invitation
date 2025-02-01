@@ -1,6 +1,3 @@
-Here’s a sample `README.md` for your project:
-
-```markdown
 # Wedding Invitation Generator
 
 This is a simple web application that allows users to create personalized wedding invitations. The app lets users input wedding details, upload photos, and choose a design for the invitation. Each wedding invitation is given a unique URL based on the couple's name.
@@ -92,14 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Express](https://expressjs.com/) for the web framework
 - [Multer](https://www.npmjs.com/package/multer) for file uploads
 - [SQLite](https://www.sqlite.org/) for the database
-```
-
-### Key Sections Explained:
-- **Tech Stack**: Lists the technologies used in the project.
-- **Installation**: Explains how to install the project and its dependencies.
-- **Usage**: Describes how users can interact with the app and create invitations.
-- **Folder Structure**: Outlines the file organization to help developers understand the app's layout.
-- **Customizing Templates**: Offers guidance on how to modify the invitation designs.
-- **License**: Mentions the project's license (MIT in this case).
-- **Acknowledgments**: Credits the libraries and frameworks used.
 
